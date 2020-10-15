@@ -46,7 +46,7 @@ requests:
       - type: status
         status:
           - 200
-
       - type: word
         words:
-          - XXL_JOB_LOGIN_IDENTITY
+          - "XXL_JOB_LOGIN_IDENTITY"
+        part: header
